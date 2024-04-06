@@ -1,0 +1,29 @@
+body{
+    /* background-color: hsl(0,80%,86%); */
+    height: 100%;
+}
+
+body::-webkit-scrollbar {
+    width: 0;
+}
+
+.josefin-sans-light {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .josefin-sans-regular {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .josefin-sans-semibold {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
