@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { schema } from 'zod';
 import { z } from 'zod';
 import arrow from "../assets/icon-arrow.svg"
 const NewsletterForm = () => {
