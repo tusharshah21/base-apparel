@@ -6,7 +6,6 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      // Add "zod" to the list of external modules
       external: ['zod']
     }
   },
